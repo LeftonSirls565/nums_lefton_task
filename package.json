@@ -1,0 +1,27 @@
+{
+  "name": "nums_lefton_task",
+  "version": "1.0.0",
+  "description": "Lightweight and efficient JavaScript library specifically designed for numerical summation tasks. With NumSum, you can quickly compute the total of numeric values, making it easy to aggregate data and perform mathematical calculations. Whether you're adding up arrays of numbers or summing dynamically generated data, NumSum provides a reliable solution for your summation needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "nums_lefton_task": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeftonSirls565/nums_lefton_task.git"
+  },
+  "homepage": "https://github.com/LeftonSirls565/nums_lefton_task/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "LeftonSirls565",
+  "license": "MIT"
+}
