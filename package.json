@@ -1,6 +1,6 @@
 {
   "name": "nums_lefton_task",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight and efficient JavaScript library specifically designed for numerical summation tasks. With NumSum, you can quickly compute the total of numeric values, making it easy to aggregate data and perform mathematical calculations. Whether you're adding up arrays of numbers or summing dynamically generated data, NumSum provides a reliable solution for your summation needs.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,14 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "nums_lefton_task": "^1.0.0"
+    "nums_lefton_task": "^1.0.0",
+    "add.genius-tipka1": "^1.0.0",
+    "sitler.totalizer": "^1.0.0",
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
   },
   "repository": {
     "type": "git",
